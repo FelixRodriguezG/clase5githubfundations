@@ -1,3 +1,4 @@
+// Funciones para sumar y restar
 function sumar(a, b) {
     return a + b;
   }
